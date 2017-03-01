@@ -6,7 +6,7 @@ using System.Xml.Linq;
 using System.Diagnostics;
 using Newtonsoft.Json;
 
-namespace src
+namespace OSMtoJSON
 {
     class Program
     {
